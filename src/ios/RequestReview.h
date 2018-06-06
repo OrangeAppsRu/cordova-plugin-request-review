@@ -2,7 +2,6 @@
 //  RequestReview.h
 
 #import <Cordova/CDV.h>
-#import <MyTargetSDK/MyTargetSDK.h>
 
 @interface RequestReview : CDVPlugin
 
